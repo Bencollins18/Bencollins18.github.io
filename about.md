@@ -1,10 +1,10 @@
 ---
 layout: default
-title: About Me
-permalink: /about/
+title: Experience
+permalink: /experience/
 ---
 
-[Home](/) | [About Me](/about/) | [Academics](/academics/) | [Misc](/misc/)
+[Home](/) | [Experience](/experience/) | [Academics](/academics/) | [Misc](/misc/)
 
 ---
 
