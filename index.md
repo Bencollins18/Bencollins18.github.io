@@ -7,7 +7,7 @@ title: Home
 
 ---
 
-<img src="/photo.jpg" width="50">
+<img src="/photo.jpg" width="200">
 
 
 # Hi, I’m Benjamin Collins 👋
