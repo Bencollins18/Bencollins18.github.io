@@ -8,9 +8,6 @@ permalink: /about/
 
 ---
 
-![Benjamin Collins](/image.HEIC)
-
-
 # 🔍 About Me
 
 I’m passionate about the use of technology in the financial markets.
