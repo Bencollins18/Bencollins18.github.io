@@ -10,4 +10,23 @@ permalink: /academics/
 
 # 🎓 Academics
 
-Cornell University, B.S. in ORIE
+## Cornell University, College of Engineering, Ithaca, NY  
+**Bachelor of Science, Operations Research and Information Engineering**  
+*Expected May 2025*
+
+### Relevant Courses:
+- Multivariable Calculus
+- Applied Operations Research
+- Computing in Python
+- Programming in Java
+- Probability and Statistics I
+- Linear Algebra
+- Machine Learning and Data Science
+- Abstract Algebra
+- Differential Equations
+- Optimization I
+- Financial Accounting
+- Probability and Statistics II
+- Optimization II
+- Stochastic Processes
+- Risk Simulation
