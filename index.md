@@ -12,4 +12,4 @@ title: Home
 
 # Hi, I’m Benjamin Collins 👋
 
-Welcome to my personal website. I’m an Engineering student in ORIE at Cornell and will be working at Millennium Management as a software engineer upon graduation!
+I’m an Engineering student at Cornell studying Operations Research and Engineering. Upon Graduation, I will be working full time at Millennium Management as an engineering analyst.
