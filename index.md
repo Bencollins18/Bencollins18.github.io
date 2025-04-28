@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-[Home](/) | [About Me](/about/) | [Academics](/academics/) | [Misc](/misc/)
+[Home](/) | [Experience](/experience/) | [Academics](/academics/) | [Misc](/misc/)
 
 ---
 
