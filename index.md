@@ -7,7 +7,7 @@ title: Home
 
 ---
 
-![Benjamin Collins](/photo.jpg)
+<img src="/photo.jpg" width="50">
 
 
 # Hi, I’m Benjamin Collins 👋
