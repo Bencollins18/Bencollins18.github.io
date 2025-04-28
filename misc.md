@@ -1,13 +1,17 @@
 ---
 layout: default
-title: Misc
-permalink: /misc/
+title: Personal
+permalink: /personal/
 ---
 
-[Home](/) | [About Me](/about/) | [Academics](/academics/) | [Misc](/misc/)
+[Home](/) | [Professional](/professional/) | [Academics](/academics/) | [Personal](/personal/)
 
 ---
 
-# 🌱 Misc
+# 🪿 Personal
 
-TO FILL
+Here are a few things that I am passionate about:
+
+- Watching and playing sports: hockey and soccer in particular.
+- Chronometry and the watch industry.
+- Viticulture and wine tasting. 
