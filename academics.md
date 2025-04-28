@@ -4,7 +4,7 @@ title: Academics
 permalink: /academics/
 ---
 
-[Home](/) | [About Me](/about/) | [Academics](/academics/) | [Misc](/misc/)
+[Home](/) | [Professional](/professional/) | [Academics](/academics/) | [Personal](/personal/)
 
 ---
 
