@@ -19,5 +19,5 @@ Upon graduation, I will be working full time at Millennium Management as an engi
 ## 🎉 Fun Facts
 
 - 🏆 I played in the 2019 World Cup for Canada
-- 🌎 I can name every country in the world - 99% of the time 
+- 🌎 I can name every country in the world — 99% of the time 
 - 🍷 I can successfully identify wine when blind-tasting — 99% of the time
